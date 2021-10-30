@@ -16,12 +16,6 @@ main {
   margin: auto;
 }
 
-aside {
-  max-width: 1000px;
-  height: auto;
-  margin: auto;
-}
-
 h1 {
   text-align: center;
   padding-top: 10px;
@@ -114,10 +108,7 @@ main ul {
 }
 
 #chart_div {
-  width: 500px;
-  padding-top: 20px;
   padding-bottom: 20px;
-
   margin: auto;
 }
 
